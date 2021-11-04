@@ -30,7 +30,7 @@
             "release": "patch"
           },
           {
-            "type": "test",
+            "type": "testing",
             "release": "patch"
           },
           {
