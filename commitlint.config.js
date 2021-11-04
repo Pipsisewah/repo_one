@@ -8,7 +8,7 @@ module.exports = {
             [
                 'break',
                 'chore',
-                'docs',
+                'documentation',
                 'feat',
                 'fix',
                 'perf',

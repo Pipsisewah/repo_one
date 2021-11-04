@@ -22,7 +22,7 @@
             "release": "patch"
           },
           {
-            "type": "docs",
+            "type": "documentation",
             "release": "patch"
           },
           {
